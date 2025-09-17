@@ -7,21 +7,13 @@ gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 mathjax: true
-author: David Hutchinson the Third
+author: Alban Maurel
 ---
 
-**Here is some bold text**
-
-## Here is a secondary heading
+What is the average speed of all digimon? How many digimon have a certain attribute? What is a possible team I can use? I was tasked with answering these questions as! Here are my answers: 
 
 
-How about a yummy crepe?
-
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
-
-It can also be centered!
-
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
+(startCode.png){: .mx-auto.d-block :}
 
 Here's a code chunk:
 
