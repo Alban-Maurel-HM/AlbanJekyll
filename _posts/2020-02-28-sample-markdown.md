@@ -23,8 +23,8 @@ def count_digimon(column, specific):
         speed = [] #list that I can later take average of
         count = 0 #amount with a "specific" attribute
         for row in reader:
-            row["SP"] = int(row["SP"]) 
-            speed.append(row["SP"]) 
+            row["Spd"] = int(row["Spd"]) 
+            speed.append(row["Spd"]) 
             if row[column] == specific:
               count += 1
         speed_avg = sum(speed)/len(speed)      
