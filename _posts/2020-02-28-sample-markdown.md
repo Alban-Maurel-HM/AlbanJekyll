@@ -13,8 +13,6 @@ author: Alban Maurel
 What is the average speed of all digimon? How many digimon have a certain attribute? What is a possible team I can use? I was tasked with answering these questions as! Here are my answers: 
 
 
-![Crepe](/assets/img/startCode){: .mx-auto.d-block :}
-
 First, I used this code to find both the average speed and the amount of digimons with a certain attribute. 
 
 ```python
@@ -50,9 +48,3 @@ def team():
                             print("Your team can be:", a["Digimon"], b["Digimon"], c["Digimon"])
 team()
 ```
-
-
-<details markdown="1">
-<summary>Click here!</summary>
-Here you can see an **expandable** section
-</details>
