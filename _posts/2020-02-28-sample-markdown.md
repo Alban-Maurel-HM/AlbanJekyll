@@ -13,7 +13,7 @@ author: Alban Maurel
 What is the average speed of all digimon? How many digimon have a certain attribute? What is a possible team I can use? I was tasked with answering these questions as! Here are my answers: 
 
 
-![Crepe](startCode.png){: .mx-auto.d-block :}
+![Crepe](startCode){: .mx-auto.d-block :}
 
 First, I used this code to find both the average speed and the amount of digimons with a certain attribute.
 
