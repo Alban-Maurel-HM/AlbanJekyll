@@ -13,9 +13,9 @@ author: Alban Maurel
 What is the average speed of all digimon? How many digimon have a certain attribute? What is a possible team I can use? I was tasked with answering these questions as! Here are my answers: 
 
 
-![Crepe](startCode){: .mx-auto.d-block :}
+![Crepe](/assets/img/startCode){: .mx-auto.d-block :}
 
-First, I used this code to find both the average speed and the amount of digimons with a certain attribute.
+First, I used this code to find both the average speed and the amount of digimons with a certain attribute. 
 
 ```python
 import csv
@@ -34,43 +34,23 @@ def count_digimon(column, specific):
         print("Avg speed is:", speed_avg)
 count_digimon("Type", "Vaccine") #example given
 ```
+Next, to find the team, I used a nested for loop with certain requirments in power and amount of memory. 
 
-And here is the same code yet again but with line numbers:
+```python
+def team():
+    with open("digimon.csv", "r") as f:
+        team_reader = csv.DictReader(f)
+        for a in team_reader:
+            for b in team_reader:
+                for c in team_reader:
+                    if a["Number"] != b["Number"] != c["Number"]: #cannot be the same
+                        if (int(a["Memory"]) + int(b["Memory"]) + 
+                            int(c["Memory"])) < 16 and (int(a["Atk"]) 
+                            + int(b["Atk"]) + int(c["Atk"])) > 299: #two needed
+                            print("Your team can be:", a["Digimon"], b["Digimon"], c["Digimon"])
+team()
+```
 
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
-
-## Local URLs in project sites {#local-urls}
-
-When hosting a *project site* on GitHub Pages (for example, `https://USERNAME.github.io/MyProject`), URLs that begin with `/` and refer to local files may not work correctly due to how the root URL (`/`) is interpreted by GitHub Pages. You can read more about it [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). To demonstrate the issue, the following local image will be broken **if your site is a project site:**
-
-![Crepe](/assets/img/crepe.jpg)
-
-If the above image is broken, then you'll need to follow the instructions [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). Here is proof that it can be fixed:
-
-![Crepe]({{ '/assets/img/crepe.jpg' | relative_url }})
 
 <details markdown="1">
 <summary>Click here!</summary>
