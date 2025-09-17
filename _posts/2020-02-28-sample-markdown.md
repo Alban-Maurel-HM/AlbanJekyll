@@ -13,24 +13,26 @@ author: Alban Maurel
 What is the average speed of all digimon? How many digimon have a certain attribute? What is a possible team I can use? I was tasked with answering these questions as! Here are my answers: 
 
 
-(startCode.png){: .mx-auto.d-block :}
+![Crepe](startCode.png){: .mx-auto.d-block :}
 
-Here's a code chunk:
+First, I used this code to find both the average speed and the amount of digimons with a certain attribute.
 
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
+```python
+import csv
+def count_digimon(column, specific): 
+    with open("digimon.csv", "r") as f:
+        reader = csv.DictReader(f) 
+        speed = [] #list that I can later take average of
+        count = 0 #amount with a "specific" attribute
+        for row in reader:
+            row["SP"] = int(row["SP"]) 
+            speed.append(row["SP"]) 
+            if row[column] == specific:
+              count += 1
+        speed_avg = sum(speed)/len(speed)      
+        print("The amount of digimon with", specific, "is", count) #nice formatting
+        print("Avg speed is:", speed_avg)
+count_digimon("Type", "Vaccine") #example given
 ```
 
 And here is the same code yet again but with line numbers:
