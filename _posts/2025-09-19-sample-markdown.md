@@ -2,9 +2,10 @@
 layout: post
 title: How I Counted Digimon
 subtitle: And Created a Good 3 Digimon Team
+cover-img: /assets/img/startCode.png
 gh-repo: Alban-Maurel-HM/AlbanJekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [digimon, team, speed]
 comments: true
 mathjax: true
 author: Alban Maurel
