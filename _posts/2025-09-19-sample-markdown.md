@@ -18,7 +18,7 @@ First, I used this code to find both the average speed and the amount of digimon
 
 ```python
 import csv
-def count_digimon(column, specific): 
+def count_digimon(column, specific): #count and speed avg
     with open("digimon.csv", "r") as f:
         reader = csv.DictReader(f) 
         speed = [] #list that I can later take average of
@@ -36,7 +36,7 @@ count_digimon("Type", "Vaccine") #example given
 Next, to find the team, I used a nested for loop with certain requirments in power and amount of memory. 
 
 ```python
-def team():
+def team(): #find team of 3
     with open("digimon.csv", "r") as f:
         team_reader = csv.DictReader(f)
         for a in team_reader:
@@ -49,3 +49,5 @@ def team():
                             print("Your team can be:", a["Digimon"], b["Digimon"], c["Digimon"])
 team()
 ```
+
+The main struggle was staying organized while getting different information. Tracking several different things was not easy. 
