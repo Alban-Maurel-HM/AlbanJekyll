@@ -50,4 +50,4 @@ def team(): #find team of 3
 team()
 ```
 
-The main struggle was staying organized while getting different information. Tracking several different things was not easy. 
+The main struggle was staying organized while getting different information. Tracking several different things was not easy. My final team is: Kuramon Pabumon Ogremon
