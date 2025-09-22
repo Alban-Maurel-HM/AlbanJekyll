@@ -50,4 +50,4 @@ def team(): #find team of 3
 team()
 ```
 
-The main struggle was staying organized while getting different information. Tracking several different things was not easy. My final team is: Kuramon Pabumon Ogremon
+The main struggle was staying organized while getting different information. Tracking several different things was not easy. My final team is: Kuramon Pabumon Ogremon, and the average speed is 120.40160642570281. 
