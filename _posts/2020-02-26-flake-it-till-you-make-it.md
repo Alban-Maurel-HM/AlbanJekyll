@@ -1,18 +1,53 @@
 ---
 layout: post
-title: Flake it till you David it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: Ashwaganda - A Scam? 
+subtitle: MetaAnalysis of Ashwagandha in brain disorders:A review of recent developments
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [books, test]
-author: Sharon Smith and Barry Simpson
+tags: [Ashwa, ganda]
+author: Alban Maurel et al. 
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+__What are the null and alternative hypotheses of this experiment?__
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+The null hypothesis is that Ashwagandha will have no effect.
+The other null hypothesis is that Ashwagandha will not have side effects. 
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+The alternative hypotheses are that Ashwagandha can act as a: neuroprotective and anti-oxidant, attenuation of neuroinflammation and neurodegeneration, prevention of morphine-elicited gene expression alteration, anti-Alzheimer's, anti-Parkinson's, neuromodulator, anti-Huntington's disease, anti-depressants, anti-autism, motivated behavioral alterations, anti-addictive, anti-amyotrophic lateral sclerosis, inhibit neurodegeneration, and nootropic effect and anti-amnesia. 
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+The other alternative hypothesis is that Ashwagandha will have side effects. 
+
+Having this amount of alternative hypotheses almost guarentees the review gets positive results. 
+
+__Who is collecting and analyzing this data?__
+
+It is collected from previous studies on Ashwagandha. 
+
+It is collected by Sultan Zahiruddin, Parakh Basist, Abida Parveen, Rabea Parveen, Washim Khan, Gaurav, Sayeed Ahmad - Bioactive Natural Product Laboratory, School of Pharmaceutical Education and Research, Jamia Hamdard
+
+__What datasets does this study reference or use? Are these datasets available to the public?__
+
+Uses data from 21 other studies, all of them are available using google scholar. This information is very available to the public. 
+
+__Why are they interested in this data?__
+
+There is a huge problem with mental health and neurological disorders, “more than one billion sufferers worldwide.” There is also a chance that more natural remedies have less severe side effects. Furthermore, modern medicine is very expensive and lastly, India is a big grower of Ashwagandha and there is a profit to be made.  
+
+__What data is being recorded? What data might be left out?__
+
+The only data being recorded is the one being published by other researchers (there is a chance they would only publish results that show correlation). This means all the studies that concluded that Ashwagandha did nothing, the same studies that likely did not get published due to the lack of recognition for those types of studies, are ignored. This skews the results towards a correlation. 
+
+__What evidence did they present to back up their conclusions?__
+
+They based their conclusions on those of other studies, combining different conclusions into one larger conclusion about the use of Ashwagandha. 
+
+__How was this study funded?__
+
+I believe it was funded by the School of Pharmaceutical Education and Research. Although I do not think there is significant bias, the widespread use of Ashwagandha would benefit India and its pharmaceutical economy given it is grown and used there. 
+
+It is useful to know this study was likely not that expensive given it is a review not its own experiment. 
+
+__Do you think publish or perish had an effect on this study?__
+
+Yes, I don’t think this study was particularly affected directly, though, I do think it was getting published regardless as it is a review. On the other hand, the data is likely skewed as most of it came from studies that went through the publish or perish effect. Some of the studies that were reviewed were probably p-hacked or only published because of their positive results, therefore, the data is skewed towards a correlation between Ashwagandha and health benefits. 
