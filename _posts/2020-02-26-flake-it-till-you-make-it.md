@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Ashwaganda - A Scam? 
-subtitle: MetaAnalysis of Ashwagandha in brain disorders:A review of recent developments
+subtitle: MetaAnalysis of Ashwagandha in brain disorders, a review of recent developments
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
-tags: [Ashwa, ganda]
+thumbnail-img: https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/BigBead/ashwagandha_benefits_bigbead/1800x1200_ashwagandha_benefits_bigbead.jpg?resize=750px:*&output-quality=75
+share-img: https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/BigBead/ashwagandha_benefits_bigbead/1800x1200_ashwagandha_benefits_bigbead.jpg?resize=750px:*&output-quality=75
+tags: [Ashwa, ganda, health, scam]
 author: Alban Maurel et al. 
 ---
 
